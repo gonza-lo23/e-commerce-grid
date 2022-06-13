@@ -1,0 +1,30 @@
+
+.Navbar{
+    background: black;
+    grid-area:nav;
+  
+}
+  .Navbar ul {
+    width: auto;
+    float: right;
+    margin-top: 8px;
+  }
+  .Navbar ul li{
+    display: inline-block;
+    padding: 10px 30px;
+  }
+  
+  a{
+    text-align: center;
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 1.2vw;
+  }
+  a:hover{
+     color: #F0c330;
+     transition: 0.5s;
+  }
+  
+  img{
+    width: 5rem;
+  }
